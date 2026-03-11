@@ -49,9 +49,7 @@ dataset/
 ## ⚙️ 설치
 
 ```bash
-pip install torch torchvision
-pip install segmentation-models-pytorch
-pip install albumentations tqdm opencv-python matplotlib
+pip install -r requirements.txt
 ```
 
 ---
